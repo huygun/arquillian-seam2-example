@@ -1,4 +1,4 @@
-Demo project showing Seam 2 support for Arquillian
+Demo project showing Seam 2 support in Arquillian
 ============================
 
 * Test enrichment for @In injection points from the Seam 2 Context.
