@@ -95,6 +95,7 @@
       <groupId>org.jboss.arquillian.extension</groupId>
       <artifactId>arquillian-seam2</artifactId>
       <version>${version.arquillian.seam2}</version>
+      <scope>test</scope>
     </dependency>
 
     <dependency>
